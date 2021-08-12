@@ -9,10 +9,7 @@
 #include "ns3/ipv4-global-routing-helper.h"
 #include "ns3/wifi-net-device.h"
 #include "ns3/applications-module.h"
-#include "ns3/gnuplot-helper.h"
-#include "ns3/file-helper.h"
-#include "ns3/point-to-point-helper.h"
-#include "ns3/packet-socket-helper.h"
+#include "ns3/gnuplot-helper.h" 
 
 #include "tcp-generator.h"
 
